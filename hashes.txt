@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dancing in Denim
+
+This log tracks the cryptographic history and versioning for the song **Dancing in Denim** (dancing-in-denim).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T06:51:59.891634 | `v1` | `20f946cf327ebfe2d4c7d77fbe9380e5382406563ce86d3b069047c39251df86` | `5a5d416c58c75b4c414b120bc0aed83c69c665808ff4ea4b20c7e47f28ba5343` | `2026-05-23_dancing-in-denim-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

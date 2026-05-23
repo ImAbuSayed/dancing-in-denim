@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dancing-in-denim/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Dancing in Denim](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dancing-in-denim/) |
+| **Get License** | [Secure Licensing Rights for Dancing in Denim](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dancing-in-denim/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `20f946cf327ebfe2d4c7d77fbe9380e5382406563ce86d3b069047c39251df86` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
