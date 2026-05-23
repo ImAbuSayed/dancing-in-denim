@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dancing-in-denim/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Dancing in Denim](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dancing-in-denim/) |
+| **Get License** | [Commercial Licensing for Dancing in Denim](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dancing-in-denim/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire when you pull me near
+> Ain't nothing but the two of us in here
+> Your boots are tapping on the hardwood floor
+> And I just know I'm gonna need some more
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
